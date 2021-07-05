@@ -10,7 +10,7 @@
       "import": "./dist/vuex.mjs"
     },
     "./": "./"
-  },
+  },dd
   "module": "dist/vuex.esm.js",
   "unpkg": "dist/vuex.js",
   "jsdelivr": "dist/vuex.js",
